@@ -1,3 +1,3 @@
-ByBurakk_s:dev
-Shazeus:bkgroup
-kralinim:tester
+ByBurakk_s
+Shazeus
+kralinim
